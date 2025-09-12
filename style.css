@@ -1,0 +1,25 @@
+ body{
+    background-color:black;
+    text-align:center;
+    padding:0px;
+    margin:0px;
+
+ }
+.bb{
+    color:rgb(240, 245, 240);
+    background-color:green;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:oblique;
+    font-weight: bolder;
+    font-size:x-large;
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-right:12px;
+    padding-left:12px;
+    cursor:pointer;
+    border:green solid 12px;
+    border-radius:12px;
+    margin-top:250px;
+
+ }
+ 
