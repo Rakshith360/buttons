@@ -5,9 +5,9 @@
     margin:0px;
 
  }
-.bb{
+bb{
     color:rgb(240, 245, 240);
-    background-colorgreen;
+    background-color:green;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style:oblique;
     font-weight: bolder;
@@ -32,4 +32,14 @@ border-radius:23px;
 background-color:red;
 
  }
- 
+ .br{
+   background-color:lightgreen;
+   border:solid 3px black;
+   border-radius:23px;
+   padding-top:12px;
+   padding-right:12px;
+   padding-left:12px;
+   padding-bottom:12px;
+   cursor:pointer;
+   
+ }
