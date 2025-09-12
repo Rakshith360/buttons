@@ -20,10 +20,16 @@
     border:green solid 12px;
     border-radius:12px;
     margin-top:10px;
-    float:left;
-    gap:12px;
-    display:flex;
-    
+  
+
+
+ }
+ button{
+color:red;
+font-family: 'Times New Roman', Times, serif;
+border:solid 4px red;
+border-radius:23px;
+background-color:red;
 
  }
  
