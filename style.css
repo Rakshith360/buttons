@@ -7,7 +7,7 @@
  }
 .bb{
     color:rgb(240, 245, 240);
-    background-color:rgb(40, 237, 40);
+    background-color:rgb(96, 239, 96);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style:oblique;
     font-weight:  bolder;
@@ -17,7 +17,7 @@
     padding-right:6px;
     padding-left:6px;
     cursor:pointer;
-    border: rgb(40, 237, 40) solid 12px;
+    border: rgb(96, 239, 96) solid 12px;
     border-radius:12px;
     margin-top:10px;
   
@@ -35,7 +35,7 @@
 
  }
  .br{
-   background-color:rgb(33, 232, 33);
+   background-color:rgb(96, 239, 96);
    border:solid 3px black;
    border-radius:40px;
    padding-top:12px;
@@ -46,7 +46,7 @@
 
  }
  button{
-   background-color:rgb(33, 232, 33);
+   background-color:rgb(96, 239, 96);
    border:solid 10px;
    border-radius:15px;
    padding-top:30px;
